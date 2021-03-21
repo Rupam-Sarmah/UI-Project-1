@@ -1,0 +1,38 @@
+.create-responsive{
+    font-size: 5vw;
+    color: darkorange;
+}
+a.btn{
+margin:5% 5%;
+max-width:50%;
+width:0 auto;
+padding:3%;
+border-radius: 2vw;
+}
+a.btn-first{
+background-color: darkorange;
+color:#fff;
+}
+a.btn-second{
+background:transparent;
+color:darkorange;
+border:.25vw solid darkorange;
+}
+a.btn:hover{
+background: darkorange;
+border:none;
+color:#fff;
+box-shadow: 1% 1% 2% #999;
+transition: 0.3s;
+}
+.for-margin-info,.for-margin-img{
+    /*we can put additional data*/
+    margin: 0 auto;
+}
+.image{
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    padding:5% 5% 5% 5%;
+  }
+  

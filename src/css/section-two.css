@@ -1,0 +1,36 @@
+.s-two {
+  background-color: #0e141e;
+  width: 90%;
+  border-radius: 2vw;
+}
+.direction {
+  display: flex;
+  flex-direction: row;
+  padding: 3% 3% 3% 3%;
+}
+.s-two .image-container {
+  width: 100%;
+  height: 2vh;
+  /*margin: 2% 0% 0% 5%;*/
+}
+.info-container {
+  width: 70%;
+  height: auto;
+  float: right;
+}
+.bold-text {
+  font-family: Poppins;
+  font-size: 3vw;
+  font-weight: 600;
+  margin: 0% 0% 2% 20%;
+  color: #ffffff;
+}
+.normal-text {
+  font-family: Poppins;
+  font-size: 2vw;
+  margin: 5% 0% 2% 20%;
+  color: #ffffff;
+}
+.s-two .img-responsive {
+  margin: 0 auto;
+}
