@@ -1,4 +1,4 @@
-notes to be made:
+
 navbar
 container
 navbar-header
